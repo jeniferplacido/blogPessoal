@@ -1,0 +1,9 @@
+#img-bg{
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_NiXAqdDoWb4ZI9JLEb14f9JEpitWo-RKg&usqp=CAU');
+
+    min-height: 695px;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
